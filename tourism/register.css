@@ -1,0 +1,56 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT88G8uD8hwCDGFFie9xaUN5gLNWtjxwT9Gb5J8oumh4x7iwfZq&usqp=CAU");
+ 
+   
+    margin: 0;
+    font-size: .9rem;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #212529;
+    text-align: center;
+    padding: 0px; 
+}
+
+.navbar-laravel
+{
+    box-shadow: 0 2px 4px rgba(116, 37, 37, 0.04);
+    box-align: center;
+    box-sizing: border-box;
+    border-color: turquoise;
+    
+}
+
+.navbar-brand , .nav-link, .my-form, .login-form
+{
+    font-family: Raleway, sans-serif;
+    color: sienna;
+}
+
+.my-form
+{
+   text-align: center;
+   color: rgb(182, 82, 82);
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+   
+}
+
+.my-form .row
+{
+    margin-left: 1px;
+    margin-right: 1px;
+   
+}
+
+.login-form
+{
+    padding-top: 0.5cmm;
+    padding-bottom: 1.5rem;
+    
+}
+
+.login-form .row
+{
+    margin-left: 0;
+    margin-right: 0;
+}
